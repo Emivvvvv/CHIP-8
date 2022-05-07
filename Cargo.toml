@@ -1,0 +1,11 @@
+[package]
+name = "CHIP-8"
+version = "0.1.0"
+edition = "2021"
+authors = ["Emivvvv <emirhantala99ff99@gmail.com>"]
+license = "MIT"
+license-file = "LICENSE"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
